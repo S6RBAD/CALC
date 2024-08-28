@@ -1,3 +1,8 @@
+"""HANDTRACKING 1ST PROJECT
+ BY :   S6R
+ IG: https://www.instagram.com/exoocian/
+ """
+
 import tkinter as tk
 
 # Fonction pour effectuer les calculs
