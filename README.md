@@ -1,23 +1,38 @@
-# Calculatrice Tkinter
+Python Calculator
+Description
+This is a simple calculator application developed in Python. The calculator can perform basic arithmetic operations such as addition, subtraction, multiplication, and division. It's a great project for beginners to get familiar with Python programming and GUI development.
 
-Une calculatrice simple utilisant la bibliothèque Tkinter de Python pour fournir une interface graphique interactive et facile à utiliser.
+Features
+Addition: Add two numbers.
+Subtraction: Subtract one number from another.
+Multiplication: Multiply two numbers.
+Division: Divide one number by another.
+Clear: Reset the current calculation.
+User-friendly Interface: Simple and easy-to-use graphical user interface (GUI).
+Installation
+Clone the repository:
+bash
+Copier le code
+git clone https://github.com/yourusername/python-calculator.git
+Navigate to the project directory:
+bash
+Copier le code
+cd python-calculator
+Install the required dependencies: If your calculator uses any external libraries (like tkinter for GUI), list the installation command here. For example:
+bash
+Copier le code
+pip install -r requirements.txt
+Usage
+Run the calculator:
+bash
+Copier le code
+python calculator.py
+The calculator GUI should open, allowing you to perform basic arithmetic operations.
+Contributing
+Contributions are welcome! Please feel free to submit a Pull Request or open an Issue if you have any suggestions or improvements.
 
-## Aperçu
+License
+This project is licensed under the MIT License - see the LICENSE file for details.
 
-Cette calculatrice permet de réaliser les opérations arithmétiques de base :
-- Addition
-- Soustraction
-- Multiplication
-- Division
-
-Elle dispose d'une interface utilisateur graphique simple, conçue avec Tkinter, qui facilite l'interaction avec l'utilisateur.
-
-
-
-## Installation
-
-Pour utiliser cette calculatrice, vous devez avoir Python installé sur votre système. Vous n'avez pas besoin d'installer de bibliothèques supplémentaires car Tkinter est inclus avec Python.
-
-1. Clonez ce dépôt sur votre machine locale :
-   ```bash
-   git clone https://github.com/votre_utilisateur/calculatrice_tkinter.git
+Acknowledgments
+Special thanks to [any resource, tutorial, or person you want to acknowledge] for their guidance.
